@@ -2,7 +2,7 @@
   "name": "clicky-gh-pages",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nelecaster.github.io/clicky-gh-pages",
+  "homepage": "https://nelecaster.github.io/clicky-gh-pages",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
